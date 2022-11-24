@@ -6,4 +6,6 @@
 
 ## About Nexus
 
-Nexus is Ethereum's core interoperability engine built with Multi-Party Computation technology. It allows you to build the most secure **externally-aware** decentralized applications.
+Nexus is a _Decentralized Cloud Computing Network_.
+
+It is designed to enable the first **externally-aware** decentralized applications, powered by Zero-Knoweldge Proofs and Multi-Party Computation technology.
