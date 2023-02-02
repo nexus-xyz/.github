@@ -10,7 +10,7 @@ _A Decentralized Cloud Computing Network_.
 
 [Nexus Labs](https://nexus.xyz) is a scientific organization building the world’s first general-purpose [verifiable cloud computing](https://en.wikipedia.org/wiki/Verifiable_computing) platform.
 
-We believe in the power of zero-knowledge proofs and multi-party computation to bring highly scalable verifiable compute to Ethereum and the rollup ecosystem.
+We believe in the power of cryptography to bring highly scalable verifiable compute to [Ethereum](https://ethereum.org) and the rollup ecosystem.
 
 Technology:
 
