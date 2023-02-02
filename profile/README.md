@@ -18,6 +18,6 @@ Technology:
 
 - [Nexus](https://litepaper.nexus.xyz): *A general-purpose verifiable cloud computing network powered by multi-party computation.* Execution Layer: WASM-based VM + Rust SDK.
 
-We obsess about removing friction and a great developer experience. That is why Nexus is designed to allow developers to write their first _verifiable_ programs in their favorite programming languages, starting with [Rust](https://www.rust-lang.org/).
+We obsess about removing friction and a great developer experience. That is why Nexus is designed to allow developers to write their first _verifiable_ cloud programs in their favorite programming languages, starting with [Rust](https://www.rust-lang.org/).
 
 [nexus.xyz](https://nexus.xyz) - [careers](https://jobs.nexus.xyz) - [research](https://research.nexus.xyz) - [blog](https://blog.nexus.xyz)
