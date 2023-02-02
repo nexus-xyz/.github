@@ -4,8 +4,20 @@
   </a>
 </p>
 
-## About Nexus
+## N E X U S
 
-Nexus is a _Decentralized Cloud Computing Network_.
+_A Decentralized Cloud Computing Network_.
 
-It is designed to enable the first **externally-aware** decentralized applications, powered by Zero-Knoweldge Proofs and Multi-Party Computation technology.
+[Nexus Labs](https://nexus.xyz) is a scientific organization building the world’s first general-purpose [verifiable cloud computing](https://en.wikipedia.org/wiki/Verifiable_computing) platform.
+
+We believe in the power of zero-knowledge proofs and multi-party computation to bring highly scalable verifiable compute to Ethereum and the rollup ecosystem.
+
+Technology:
+
+- [Nexus Zero](https://zero.nexus.xyz): *A general-purpose verifiable cloud computing network powered by zero-knowledge proofs.* Execution Layer: STARK-based zkVM + Rust SDK.
+
+- [Nexus](https://litepaper.nexus.xyz): *A general-purpose verifiable cloud computing network powered by multi-party computation.* Execution Layer: WASM-based VM + Rust SDK.
+
+We obsess about removing friction and a great developer experience. That is why Nexus is designed to allow developers to write their first _verifiable_ programs in their favorite programming languages, starting with [Rust](https://www.rust-lang.org/).
+
+[nexus.xyz](https://nexus.xyz) - [careers](https://jobs.nexus.xyz) - [research](https://research.nexus.xyz) - [blog](https://blog.nexus.xyz)
