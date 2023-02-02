@@ -16,7 +16,7 @@ Technology:
 
 - [Nexus Zero](https://zero.nexus.xyz): *A general-purpose verifiable cloud computing network powered by zero-knowledge proofs.* Execution Layer: STARK-based zkVM + Rust SDK.
 
-- [Nexus](https://litepaper.nexus.xyz): *A general-purpose verifiable cloud computing network powered by multi-party computation.* Execution Layer: WASM-based VM + Rust SDK.
+- [Nexus](https://litepaper.nexus.xyz): *A general-purpose verifiable cloud computing network powered by multi-party computation and state-machine-replication.* Execution Layer: WASM-based VM + Rust SDK.
 
 We obsess about enabling a beautiful developer experience. That is why Nexus is designed to allow developers to write their first _verifiable_ cloud programs in their favorite programming languages, starting with [Rust](https://www.rust-lang.org/).
 
