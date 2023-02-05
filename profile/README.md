@@ -14,7 +14,7 @@ We believe in the power of [zero-knowledge proofs](https://en.wikipedia.org/wiki
 
 Technology:
 
-- [Nexus Zero](https://zero.nexus.xyz): *A general-purpose verifiable cloud computing network powered by zero-knowledge proofs.* Execution Layer: STARK-based zkVM + Rust SDK.
+- [Nexus Zero](https://zero.nexus.xyz): *A general-purpose verifiable cloud computing network powered by zero-knowledge proofs.* Execution Layer: SNARK-based zkVM + Rust SDK.
 
 - [Nexus](https://litepaper.nexus.xyz): *A general-purpose verifiable cloud computing network powered by multi-party computation.* Execution Layer: WASM-based VM + Rust SDK.
 
