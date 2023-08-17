@@ -6,12 +6,8 @@
 
 ## N E X U S
 
-_A Decentralized Zero-Knowledge Cloud Computing Network_.
+_Enabling General-Purpose Verifiable Computing_
 
-[Nexus Labs](https://nexus.xyz) is a scientific organization building the world’s first general-purpose [verifiable cloud computing](https://en.wikipedia.org/wiki/Verifiable_computing) network, powered by [zero-knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
+[Nexus](https://nexus.xyz) is a scientific organization enabling the first form of general-purpose [verifiable computing](https://en.wikipedia.org/wiki/Verifiable_computing), powered by [zero-knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 
-We believe in the power of zero-knowledge cryptography to bring the next-generation of highly scalable verifiable compute to [Ethereum](https://ethereum.org) and the rollup ecosystem.
-
-We obsess about enabling a beautiful developer experience. That is why Nexus is designed to allow developers to write their own _verifiable_ cloud programs in their favorite programming languages, starting with [Rust](https://www.rust-lang.org/).
-
-[nexus.xyz](https://nexus.xyz) - [careers](https://jobs.nexus.xyz)
+[nexus.xyz](https://nexus.xyz)
