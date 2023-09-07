@@ -8,6 +8,6 @@
 
 _Enabling General-Purpose Verifiable Computing_
 
-[Nexus](https://nexus.xyz) is a scientific organization enabling the first form of general-purpose [verifiable computing](https://en.wikipedia.org/wiki/Verifiable_computing), powered by [zero-knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
+[Nexus](https://nexus.xyz) is a scientific organization enabling the first form of general-purpose [verifiable computing](https://en.wikipedia.org/wiki/Verifiable_computing), powered by zero-knowledge proofs.
 
 [nexus.xyz](https://nexus.xyz)
