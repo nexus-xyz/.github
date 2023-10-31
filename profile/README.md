@@ -6,7 +6,7 @@
 
 ## N E X U S
 
-_Enabling General-Purpose Verifiable Computing_
+_Enabling Verifiable Computing_
 
 [Nexus](https://nexus.xyz) is a scientific organization enabling general-purpose [verifiable computing](https://en.wikipedia.org/wiki/Verifiable_computing), powered by zero-knowledge proofs.
 
