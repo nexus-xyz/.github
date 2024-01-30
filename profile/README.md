@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://nexus.xyz" target="_blank">
-    <img alt="Nexus is Ethereum's off-chain scalability engine" title="Nexus is Ethereum's off-chain scalability engine" src="https://raw.githubusercontent.com/nexus-xyz/.github/main/nexus-head.png" width="100%">
+    <img alt="Nexus: Zero Knowledge Proofs, at Scale" title="Nexus: Zero-Knowledge Proofs, at Scale" src="../nexus-head.png" width="100%">
   </a>
 </p>
 
-## N E X U S
+# Nexus
 
-_Enabling Verifiable Computing_
+_Zero Knowledge Proofs, at Scale_
 
-[Nexus](https://nexus.xyz) is a scientific effort enabling [verifiable computing](https://en.wikipedia.org/wiki/Verifiable_computing), powered by zero-knowledge proofs.
+[Nexus](https://nexus.xyz) is a scientific effort enabling [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), at scale.
 
 [nexus.xyz](https://nexus.xyz)
