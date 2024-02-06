@@ -8,6 +8,6 @@
 
 _Zero Knowledge Proofs, at Scale_
 
-[Nexus](https://nexus.xyz) is a scientific effort enabling [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), at scale.
+[Nexus](https://nexus.xyz) is a scientific effort enabling [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), at Internet scale.
 
 [nexus.xyz](https://nexus.xyz)
